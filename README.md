@@ -2,8 +2,7 @@
 
 I'm a student of Computer Engineering & Cybersecurity Master Degree @ Politecnico di Torino, Italy.
 
-- 🔭 I’m currently working on my Master's degree thesis that deals with analyze and model complex cybersecurity attacks.
-- 🌱 I’m currently learning Machine learning for Natural Language Processing (NLP).
+- 🔭 I’m currently working on my Master's degree thesis that deals with modelling cybersecurity attacks.
 - 📫 How to reach me: marcobarca1995@gmail.com
 
 Here some information about my GitHub profile:
