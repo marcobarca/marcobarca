@@ -2,7 +2,7 @@
 
 I'm a student of Computer Engineering & Cybersecurity Master Degree @ Politecnico di Torino, Italy.
 
-- 🔭 I’m currently working on my Master's degree thesis that deals with modeling cybersecurity attacks.
+- 🔭 I am currently working on my Master's degree thesis, which focuses on modeling cybersecurity attacks.
 - 📫 How to reach me: marcobarca1995@gmail.com
 
 Here some information about my GitHub profile:
