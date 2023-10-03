@@ -1,6 +1,6 @@
 ### Hi there, it's Marco Barca 👋
 
-I'm a student of Computer Engineering & Cybersecurity Master Degree @ Politecnico di Torino, Italy.
+I'm a Computer Engineering & Cybersecurity Master Degree student @ Politecnico di Torino, Italy.
 
 - 🔭 I am currently working on my Master's degree thesis, which focuses on modeling cybersecurity attacks.
 - 📫 How to reach me: marcobarca1995@gmail.com
