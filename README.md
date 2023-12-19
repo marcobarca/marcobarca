@@ -1,8 +1,9 @@
 ### Hi there, it's Marco Barca 👋
 
-I'm a Computer Engineering & Cybersecurity Master Degree student @ Politecnico di Torino, Italy.
+I'm a Computer Engineer & Cybersecuriry Enthustiast
 
 - 🔭 I am currently working on modeling cybersecurity attacks using Generative AI.
+- 🎓 Computer Engineering - Cybersecurity Master's Degree @ Politecnico di Torino.
 - 📫 How to reach me: marcobarca1995@gmail.com
 
 Here some information about my GitHub profile:
