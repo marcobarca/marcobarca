@@ -1,6 +1,6 @@
 ### Hi there, it's Marco Barca 👋
 
-I'm a Computer Engineer & Cybersecuriry Enthustiast
+I'm a Computer Engineer & Cybersecurity Enthustiast
 
 - 🔭 I am currently working on modeling cybersecurity attacks using Generative AI.
 - 🎓 Computer Engineering - Cybersecurity Master's Degree @ Politecnico di Torino.
