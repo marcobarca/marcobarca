@@ -3,6 +3,7 @@
 I'm a Computer Engineer & Cybersecurity Enthustiast
 
 - 🔭 I am currently working on modeling cybersecurity attacks using Generative AI.
+- 🧠 Passionate about AI. 
 - 🎓 Computer Engineering - Cybersecurity Master's Degree @ Politecnico di Torino.
 - 📫 How to reach me: marcobarca1995@gmail.com
 
