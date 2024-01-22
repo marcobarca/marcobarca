@@ -9,5 +9,5 @@ I'm a Computer Engineer & Cybersecurity Enthustiast
 
 Here some information about my GitHub profile:
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcobarca&layout=compact&langs_count=20&theme=react&hide_border=true) 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcobarca&layout=compact&langs_count=15&theme=react&hide_border=true) 
 
