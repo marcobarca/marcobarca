@@ -1,17 +1,56 @@
-### Hi there, it's Marco Barca 👋
+# 👋 Hi, I'm Marco Barca
 
-I'm a Computer Engineer & Cybersecurity Enthustiast
+## 🚀 About Me
 
-- 🧠 Passionate about AI. 
-- 🎓 Computer Engineering - Cybersecurity Master's Degree @ Politecnico di Torino.
-- 📫 How to reach me: marcobarca1995@gmail.com
+🎓 **Master's Degree** in Computer Engineering - Cybersecurity @ **Politecnico di Torino**  
+☁️ **Cloud Engineer & Solution Architect** designing scalable cloud infrastructures  
+🧠 Passionate about **Artificial Intelligence** and cutting-edge technologies  
+🌱 Currently exploring **ML/AI applications** in cloud-native environments  
 
-Here some information about my GitHub profile:
+---
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcobarca&layout=compact&langs_count=8&theme=react&hide_border=true) 
+## 📊 GitHub Statistics
 
-<div align="left">
-  <img src="https://custom-icon-badges.demolab.com/badge/%20-5D95F6.svg?logoSource=feather&logo=eye&logoColor=white" height="27"><img src="https://api.visitorbadge.io/api/visitors?path=francescolonardo%2Ffrancescolonardo&label=Visitors&labelColor=5D95F6&countColor=5D95F6&style=flat"> <!-- https://www.visitorbadge.io/ -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcobarca&theme=react&hide_border=true" />
 </div>
-<br>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcobarca&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=marcobarca&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" />
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-marcobarca1995@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcobarca1995@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco_Barca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-barca)
+[![GitHub](https://img.shields.io/badge/GitHub-marcobarca-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcobarca)
+
+</div>
+
+---
+
+## 📈 Profile Views
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=marcobarca&color=5D95F6&style=for-the-badge&label=Profile+Views)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5D95F6&height=100&section=footer" />
+</div>
