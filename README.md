@@ -13,7 +13,10 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcobarca&theme=react&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcobarca&show_icons=true&theme=react&hide_border=true&count_private=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcobarca&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 ---
