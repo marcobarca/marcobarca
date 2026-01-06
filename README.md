@@ -12,9 +12,6 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcobarca&layout=compact&theme=react&hide_border=true" />
-</div>
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcobarca&theme=react-dark&hide_border=true&area=true" />
 </div>
 
