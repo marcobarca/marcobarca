@@ -9,17 +9,6 @@
 
 ---
 
-## 🔬 Side Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [AttackModeler](https://github.com/marcobarca/AttackModeler) | Framework to model attacker behaviour using GPT — built for my Master's thesis | Python, AI |
-| [Algorand Crowdfunding](https://github.com/marcobarca/Algorand_Crowdfunding_platform) | Decentralised crowdfunding platform — 2nd place @ Encode × Algorand Hackathon | JavaScript, Blockchain |
-| [microhttp](https://github.com/marcobarca/microhttp) | Minimalist HTTP server in pure C, no external dependencies | C, Systems |
-| [cleanux](https://github.com/marcobarca/cleanux) | AI-driven Linux server monitor and cleanup tool | Shell, AI |
-
----
-
 ## 🎓 Education
 
 - 🎓 **Master's — Computer Engineering, Cybersecurity** · Politecnico di Torino (2020–2023)
