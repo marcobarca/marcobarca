@@ -2,18 +2,18 @@
 
 ## 🚀 About Me
 
-* Cloud Solutions Engineer & Solution Architect — Designing and building cloud-native systems at the intersection of AI, data engineering, and software architecture
-* Building intelligent platforms that integrate Machine Learning, Generative AI, data engineering, and cloud-native architectures
-* Master's in Computer Engineering — Cybersecurity @ Politecnico di Torino
-* 2nd Place @ Encode × Algorand Hackathon
+* **Cloud Solutions Engineer & Solution Architect** — Designing and building cloud-native systems at the intersection of AI, data engineering, and software architecture
+* **Building intelligent platforms** that integrate Machine Learning, Generative AI, data engineering, and cloud-native architectures
+* **Master's in Computer Engineering** — Cybersecurity @ Politecnico di Torino
+* **2nd Place @ Encode × Algorand Hackathon**
 
 ---
 
 ## 🎓 Education
 
-- 🎓 **Master's — Computer Engineering, Cybersecurity** · Politecnico di Torino (2020–2023)
-- 🔗 **Master in Blockchain & Digital Assets** · MasterZ (2022)
-- 🎓 **Bachelor's — Computer Engineering** · Università degli Studi di Salerno (2017–2020)
+- **Master's — Computer Engineering, Cybersecurity** · Politecnico di Torino (2020–2023)
+- **Master in Blockchain & Digital Assets** · MasterZ (2022)
+- **Bachelor's — Computer Engineering** · Università degli Studi di Salerno (2017–2020)
 
 ---
 
