@@ -5,7 +5,7 @@
 * **Cloud Solutions Engineer & Solution Architect** — Designing and building cloud-native systems at the intersection of AI, data engineering, and software architecture
 * **Building intelligent platforms** that integrate Machine Learning, Generative AI, data engineering, and cloud-native architectures
 * **Master's in Computer Engineering** — Cybersecurity @ Politecnico di Torino
-* **2nd Place @ Encode × Algorand Hackathon**
+* **2nd Place @ Encode × Algorand Hackathon 2022**
 
 ---
 
